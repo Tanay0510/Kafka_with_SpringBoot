@@ -4,7 +4,7 @@ Basic Spring Boot example with Kafka
 
 #### Download Kafka
 
-[Link to Kafka](https://kafka.apache.org/downloads)
+[Link to Apache Kafka](https://kafka.apache.org/downloads)
 
 
 #### Start Zookeper server with default configuration file
